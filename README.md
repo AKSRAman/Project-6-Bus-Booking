@@ -1,7 +1,7 @@
 # Project bus booking
 
-## In this project WE have created three model Bus, Booking and user
-## Whole project is based on real bus booking service
+### In this project I have created three model Bus, Booking and user
+### Whole project is based on real bus booking service
 
 ### Basic overview about this project
 
